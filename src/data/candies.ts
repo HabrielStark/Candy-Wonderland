@@ -55,7 +55,7 @@ export const candies: Candy[] = [
     name: 'Peppermint',
     sugarContent: 8,
     description: 'Cool, refreshing mint-flavored candy.',
-    image: '/images/peppermint.jpg',
+    image: '/images/Peppermint.jpg',
   },
   {
     id: 9,
@@ -104,7 +104,7 @@ export const candies: Candy[] = [
     name: 'Jawbreakers',
     sugarContent: 23,
     description: 'Multi-layered hard candies that last for hours.',
-    image: '/images/jawbreakers.jpg',
+    image: '/images/Jawbreakers.jpg',
   },
   {
     id: 16,
@@ -132,7 +132,7 @@ export const candies: Candy[] = [
     name: 'Taffy',
     sugarContent: 19,
     description: 'Soft, chewy candy available in many flavors.',
-    image: '/images/taffy.jpg',
+    image: '/images/Taffy.jpg',
   },
   {
     id: 20,
